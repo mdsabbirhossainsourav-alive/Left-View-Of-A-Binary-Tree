@@ -1,4 +1,4 @@
-## Problem link:https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_920519
+## Problem link: https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_920519
 
 ### Problem statement
 You have been given a binary tree of integers. You are supposed to find the left view of the binary tree. The left view of a binary tree is the set of all nodes that are visible when the binary tree is viewed from the left side.
